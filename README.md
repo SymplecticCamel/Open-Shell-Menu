@@ -2,7 +2,7 @@
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
-[![Build status](https://ci.appveyor.com/api/projects/status/u0rcjglgl6yh9854koi9/branch/master?svg=true)](https://ci.appveyor.com/project/SymplecticCamel/open-shell-menu/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/SymplecticCamel/open-shell-menu/branch/master)
  
 
 - Classic style Start Menu for Windows 7, 8, 8.1, 10

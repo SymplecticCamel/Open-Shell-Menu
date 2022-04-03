@@ -2,7 +2,7 @@
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
-[![GitHub Release](https://img.shields.io/github/release/symplecticCamel/Open-Shell-Menu.svg)](https://github.com/symplecticCamel/Open-Shell-Menu/releases) [![GitHub Pre-Release](https://img.shields.io/github/release/symplecticCamel/Open-Shell-Menu/all.svg)](https://github.com/symplecticCamel/Open-Shell-Menu/releases) [![Build status](https://ci.appveyor.com/api/projects/status/2wj5x5qoypfjj0tr/branch/master?svg=true)](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/u0rcjglgl6yh9854koi9/branch/master?svg=true)](https://ci.appveyor.com/project/SymplecticCamel/open-shell-menu/branch/master)
  
 
 - Classic style Start Menu for Windows 7, 8, 8.1, 10

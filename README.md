@@ -1,9 +1,10 @@
-## Open-Shell ![Open-Shell](/Src/Setup/OpenShell.ico)
+## **FORKED** Open-Shell ![Open-Shell](/Src/Setup/OpenShell.ico)
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
 [![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/SymplecticCamel/open-shell-menu/branch/master)
  
+[![CodeQL](https://github.com/SymplecticCamel/Open-Shell-Menu/actions/workflows/codeql.yml/badge.svg)](https://github.com/SymplecticCamel/Open-Shell-Menu/actions/workflows/codeql.yml)
 
 - Classic style Start Menu for Windows 7, 8, 8.1, 10
 - Toolbar for Windows Explorer
